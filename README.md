@@ -1,4 +1,4 @@
-# Pytthon-calculator
+# Python-calculator
 #my calculator project i used tkinter library in visual studio
 import tkinter as tk
 from tkinter import ttk
